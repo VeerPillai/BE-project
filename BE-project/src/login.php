@@ -47,7 +47,7 @@
                                     {
 
                                         echo '<div class="text-center alert alert-danger" role="alert">
-                                                Invalid Password!
+                                                Invalid Password! Try Again!
                                             </div>';
                                     }
                                     else if($_GET['error'] == "nouser")
